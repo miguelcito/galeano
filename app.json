@@ -1,0 +1,13 @@
+{
+  "name": "galeano",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
